@@ -9,3 +9,7 @@ C# WPF MVVM with WindowsPortableDevice Api
 * windows portable device support.
 
 ---
+
+![alt text](https://github.com/xoreaxecx/FileFinder/blob/master/pic.jpg)
+
+---
